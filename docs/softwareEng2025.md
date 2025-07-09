@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学 (第1回 ~ 第6回)
 
 ソフトウェア工学はソフトウェア・エンジニアリングの基礎知識の理解及び実務的なスキルの習得を目標とする講義である
